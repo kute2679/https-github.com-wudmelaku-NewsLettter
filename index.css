@@ -7,6 +7,31 @@
     color: aqua;
 }
 
+.card-containner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    display: flex;
+    padding: 10px;
+    width: calc(25% - 1rem); /* Adjust the width accordingly with margins */
+    margin-bottom: 20px; /* Add margin as needed */
+    margin-right: 10px;
+}
+
+
+
+
+
+.container-fluid{
+background-color: rgb(88, 118, 216);
+border: none;
+
+
+}
+
 .containner{
 background-color: bisque;
 display: flex;
