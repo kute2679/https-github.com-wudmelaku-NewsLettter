@@ -34,7 +34,7 @@ border: none;
 
 .containner{
 background-color: bisque;
-display: flex;
+display: grid();
 justify-content: center;
 align-items: center;
 
